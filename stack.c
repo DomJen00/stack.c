@@ -1,3 +1,16 @@
+/**
+ * @file stack.c
+ * @brief Implementation of a simple stack in C.
+ *
+ * This file provides the implementation of the stack operations defined in
+ * stack.h. It includes functions to create, destroy, push, pop, and check if
+ * the stack is empty. The stack uses a fixed-size array to store integers.
+ *
+ * @author Dominic Jenni
+ * @date 21.09.2024
+ * 
+ */
+
 #include "stack.h"
 #include <limits.h>
 #include <stdlib.h>

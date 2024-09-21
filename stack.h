@@ -1,3 +1,16 @@
+/**
+ * @file stack.h
+ * @brief A simple stack implementation in C.
+ *
+ * This header defines a basic stack data structure that stores integers and
+ * provides standard stack operations such as push, pop, and checking if the stack
+ * is empty. The stack is implemented using a fixed-size array.
+ *
+ * @author Dominic Jenni
+ * @date 21.09.2024
+ *
+ */
+
 #ifndef stack_h
 #define stack_h
 
